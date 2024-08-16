@@ -250,7 +250,7 @@ img{
     border-radius: 18px;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(../asset/run.jpg);
+    background-image: url(./asset/run.jpg);
     }
     /* exercise section style  */
 .gym-container{
