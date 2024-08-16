@@ -32,6 +32,9 @@
     background-color: black;
     color: white;
 }
+.nav-text{
+    color: #E6533C;
+}
 .nav-link>ul{
     display: flex;
     gap: 160px;
@@ -490,6 +493,9 @@ table.table-container {
 }
 .text{
     /* text-decoration: red;*/
+}
+.text-A{
+    color: #E6533C;
 }
 .get-started-1{
     width: 200px;
